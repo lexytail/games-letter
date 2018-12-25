@@ -1,0 +1,14 @@
+{
+  "name": "letter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lexytail/games-letter.git",
+  "author": "Жорж Нунга <nounga@yandex.ru>",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
